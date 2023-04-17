@@ -17,8 +17,8 @@ Data preparation, exploratory data analysis and PCA analysis of network snapshot
 
 ![image](images/img_%20pca%20biplot.png)
 
-Skills applied:
-### DATA CLEANING / DATA ANALYSIS IN R / PCA ANALYSIS / DATA VISUALIZATION
+### Skills applied:
+DATA CLEANING / DATA ANALYSIS IN R / PCA ANALYSIS / DATA VISUALIZATION
 
 
 
@@ -31,8 +31,8 @@ Preparation and classification of data with K-Nearest Neighbour machine learning
 
 ![image](images/img_%20k5%20test%200.2.png)
 
-Skills applied:
-### DATA CLEANING / MACHINE LEARNING / KNN CLASSIFICATION / PYTHON / SCIKIT-LEARN / PANDAS
+### Skills applied:
+DATA CLEANING / MACHINE LEARNING / KNN CLASSIFICATION / PYTHON / SCIKIT-LEARN / PANDAS
 
 
 
@@ -45,8 +45,8 @@ Management dashboard for live tracking of sales and profit KPIs from a United St
 
 ![image](images/img_%20dashboard2.png)
 
-Skills applied:
-### DASHBOARD BUILDING / TABLEAU / DATA VISUALIZATION
+### Skills applied:
+DASHBOARD BUILDING / TABLEAU / DATA VISUALIZATION
 
 ## [Please access the interactive dashboard here.](https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa)
 
