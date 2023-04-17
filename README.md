@@ -11,7 +11,7 @@ I'm Pedro, a graduate in Computer Science. I first graduated in Business(account
 
 
 # [Project 1](https://github.com/pedro-vasconcelos-costa/Cyber-attacks-PCA-analysis)
-# Cyber-attacks-PCA-analysis
+## Cyber-attacks-PCA-analysis
 
 Data preparation, exploratory data analysis and PCA analysis of network snapshots data for prediction of cyber attacks.
 ### Skills applied:
@@ -62,4 +62,3 @@ DASHBOARD BUILDING / TABLEAU / DATA VISUALIZATION
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-vasconcelos-costa)](https://github.com/anuraghazra/github-readme-stats)
