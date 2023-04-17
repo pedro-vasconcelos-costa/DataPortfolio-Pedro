@@ -19,7 +19,7 @@ Management dashboard for live tracking of sales and profit KPIs from a United St
 
 ![](images/img_%20dashboard.png)
 
-### [Please access the interactive dashboard here.] (https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa)
+### [Please access the interactive dashboard here.](https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa)
 
 
 
