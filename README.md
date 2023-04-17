@@ -10,7 +10,7 @@ You can check my LinkedIn profile on https://www.linkedin.com/in/vasconcelos-ped
 
 While there are several other Machine Learning techniques capable of solving much more complex problems and tackling grater dimensions of data and number of parameters involved, choosing some of them for this specific task could be considered an overkill. The use of AI must follow a sustainable proposition and justify the amount of time and resources dedicated to its implementation. The KNN model bears plenty of capability to handle the classification of the Iris Flower dataset.
 
-![](/images/img_%20k5%20test%200.2.png)
+![](images/img_%20k5%20test%200.2.png)
 
 # [Project 2](https://github.com/pedro-vasconcelos-costa/TABLEAU-Management-KPI-dashboard)
 ## KPI Management Dashboard
