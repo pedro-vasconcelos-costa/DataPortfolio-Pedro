@@ -17,7 +17,7 @@ While there are several other Machine Learning techniques capable of solving muc
 
 Management dashboard for live tracking of sales and profit KPIs from a United States 'persona' company, operating in 49 states.
 
-![](/images/img_%20dashboard.png)
+![](images/img_%20dashboard.png)
 
 ### Please access the interactive dashboard on the link below.
 TableauPublic profile: https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa
