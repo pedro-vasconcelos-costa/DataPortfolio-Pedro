@@ -3,7 +3,7 @@
 
 I'm Pedro from Australia. I first graduated in Business(accounting) and am currenty pursuing my Master's Degree in Computer Science. I am passionate about data and all the information and knowledge it generates. In my data science projects i used Python, R, ML, SQL and Tableau, but i'm always looking for more tools to incorporate into my skills.  
 
-![You can check my LinkedIn profile here!] (https://www.linkedin.com/in/vasconcelos-pedro/)
+## ![You can check my LinkedIn profile here!](https://www.linkedin.com/in/vasconcelos-pedro/)
 
 # [Project 1](https://github.com/pedro-vasconcelos-costa/Cyber-attacks-PCA-analysis)
 # Cyber-attacks-PCA-analysis
