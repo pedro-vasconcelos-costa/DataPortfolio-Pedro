@@ -8,6 +8,8 @@ I'm Pedro from Australia. I first graduated in Business(accounting) and am curre
 # [Project 1](https://github.com/pedro-vasconcelos-costa/Cyber-attacks-PCA-analysis)
 # Cyber-attacks-PCA-analysis
 
+![image](images/img_%20pca%20biplot.png)
+
 Data cleaning and analysis of network attack snapshots.
 
 # [Project 2](https://github.com/pedro-vasconcelos-costa/KNN-Classifier)
@@ -22,7 +24,7 @@ While there are several other Machine Learning techniques capable of solving muc
 
 Management dashboard for live tracking of sales and profit KPIs from a United States 'persona' company, operating in 49 states.
 
-![image](images/img_%20dashboard.png)
+![image](images/img_%20dashboard2.png)
 
 ### [Please access the interactive dashboard here.](https://public.tableau.com/app/profile/pedro.henrique.franca.de.vasconcelos.costa)
 
