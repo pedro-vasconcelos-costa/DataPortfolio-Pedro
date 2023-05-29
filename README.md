@@ -13,7 +13,7 @@ I'm Pedro, a graduate in Computer Science. I first graduated in Business(account
 
 Prediction of malicious network connection events with Random Forest and Elastic-Net Regression in R and Python
 ### Skills applied:
-MACHINE LEARNING / DATA MODELING / RANDOM FOREST / ELASTIC-NET LOGISTIC REGRESSION / ML IN R / ML IN PYTHON
+MACHINE LEARNING / DATA MODELING / RANDOM FOREST / ELASTIC-NET LOGISTIC REGRESSION / HYPER-PARAMETER TUNNING / MODEL PERFORMANCE EVALUATION / R / PYTHON 
 
 ![image](images/img_%20elaN%20cv%20plot.png)
 
