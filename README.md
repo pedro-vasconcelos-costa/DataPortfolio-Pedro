@@ -26,7 +26,7 @@ MACHINE LEARNING / DATA MODELING / RANDOM FOREST / ELASTIC-NET LOGISTIC REGRESSI
 # [Project 2](https://github.com/pedro-vasconcelos-costa/Cyber-attacks-PCA-analysis)
 ## Cyber-attacks-PCA-analysis
 
-Data preparation, exploratory data analysis and PCA analysis of network snapshots data for prediction of cyber attacks.
+Data preparation, exploratory data analysis and Principal Component Analysis of network snapshots data for prediction of cyber attacks.
 ### Skills applied:
 DATA CLEANING / DATA ANALYSIS IN R / PCA ANALYSIS / DATA VISUALIZATION
 
